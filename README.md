@@ -49,7 +49,7 @@ The results of the model evaluation can be found in the `output.txt` file. This 
 - Model architecture summary.
 - Evaluation metric (accuracy).
 - Additional insights and observations.
-
-## To view the detailed model evaluation results, you can open the [Output.txt](https://github.com/Asif734/Fashion_MNIST/blob/master/output.txt)
+```
+To view the detailed model evaluation results, you can open the [Output.txt](https://github.com/Asif734/Fashion_MNIST/blob/master/output.txt)
  file.
 
