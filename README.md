@@ -41,3 +41,14 @@ You can install these dependencies using the provided `requirements.txt` file. C
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 pip install -r requirements.txt
+
+## Model Evaluation
+
+The results of the model evaluation can be found in the `output.txt` file. This file includes:
+
+- Model architecture summary.
+- Evaluation metric (accuracy).
+- Additional insights and observations.
+
+To view the detailed model evaluation results, you can open the [output.txt](output.txt) file.
+
